@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:pav_game/side_animation.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class GameView extends StatefulWidget {
